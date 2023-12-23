@@ -2,7 +2,7 @@
 
 A simple project is created by using HTML and CSS. Supporting library: OwlJS, JQuery, CountUpJS.
 
-Existing code is on the branch master. Due to the unresponsive website, it will be viewed at best in 1440x1080
+Existing code is on the branch master. The website will be viewed at best in 1440x1080 resolution.
 
 My cloning project: https://lvimtran.github.io/Project_Housing_Clone/
 
