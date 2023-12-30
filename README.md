@@ -1,4 +1,4 @@
-# Project_Housing_Clone
+# Clone Project - Housing
 
 A simple project is created by using HTML and CSS. Supporting library: OwlJS, JQuery, CountUpJS.
 
